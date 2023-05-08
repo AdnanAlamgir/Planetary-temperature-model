@@ -12,7 +12,7 @@ P_s = 10**5
 RH_d = 0.8
 RH_n = 0.6
 z_o = 1000
-z_a = 1000 # used in the moist static energy equation
+z_a = 1000 
 t_o = (1 / (100*365 * 24 * 3600))
 t_a = (1 / (30 * 24 * 3600))
 
