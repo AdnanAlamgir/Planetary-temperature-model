@@ -1,50 +1,5 @@
 # This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
 # Thu Feb 16 05:25:17 2023
-#
-# User preference: *
-#
-# CONSTRAINT:  where (sy_snum = 1)
-# CONSTRAINT:  and pl_orbperstr in [0, 200]
-# CONSTRAINT:  and pl_orbsmaxstr in [0, 2]
-# CONSTRAINT:  and pl_radestr in [0, 10]
-# CONSTRAINT:  and pl_bmassestr in [0, 30]
-# CONSTRAINT:  and st_teffstr in [2000, 3500]
-# CONSTRAINT:  and st_radstr in [0, 1])
-#
-# COLUMN pl_name:        Planet Name
-# COLUMN sy_snum:        Number of Stars
-# COLUMN pl_orbper:      Orbital Period [days]
-# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
-# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
-# COLUMN pl_orbperlim:   Orbital Period Limit Flag
-# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]) 6
-# COLUMN pl_orbsmaxerr1: Orbit Semi-Major Axis Upper Unc. [au]
-# COLUMN pl_orbsmaxerr2: Orbit Semi-Major Axis Lower Unc. [au]
-# COLUMN pl_orbsmaxlim:  Orbit Semi-Major Axis Limit Flag
-# COLUMN pl_rade:        Planet Radius [Earth Radius] 10
-# COLUMN pl_radeerr1:    Planet Radius Upper Unc. [Earth Radius]
-# COLUMN pl_radeerr2:    Planet Radius Lower Unc. [Earth Radius]
-# COLUMN pl_radelim:     Planet Radius Limit Flag
-# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass] 14
-# COLUMN pl_bmasseerr1:  Planet Mass or Mass*sin(i) [Earth Mass] Upper Unc.
-# COLUMN pl_bmasseerr2:  Planet Mass or Mass*sin(i) [Earth Mass] Lower Unc.
-# COLUMN pl_bmasselim:   Planet Mass or Mass*sin(i) [Earth Mass] Limit Flag
-# COLUMN st_teff:        Stellar Effective Temperature [K] 18
-# COLUMN st_tefferr1:    Stellar Effective Temperature Upper Unc. [K]
-# COLUMN st_tefferr2:    Stellar Effective Temperature Lower Unc. [K]
-# COLUMN st_tefflim:     Stellar Effective Temperature Limit Flag
-# COLUMN st_rad:         Stellar Radius [Solar Radius] 22
-# COLUMN st_raderr1:     Stellar Radius Upper Unc. [Solar Radius]
-# COLUMN st_raderr2:     Stellar Radius Lower Unc. [Solar Radius]
-# COLUMN st_radlim:      Stellar Radius Limit Flag
-# COLUMN st_mass:        Stellar Mass [Solar mass]
-# COLUMN st_masserr1:    Stellar Mass Upper Unc. [Solar mass]
-# COLUMN st_masserr2:    Stellar Mass Lower Unc. [Solar mass]
-# COLUMN st_masslim:     Stellar Mass Limit Flag
-# COLUMN sy_dist:        Distance [pc]
-# COLUMN sy_disterr1:    Distance [pc] Upper Unc
-# COLUMN sy_disterr2:    Distance [pc] Lower Unc
-#
 pl_name,sy_snum,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbsmax,pl_orbsmaxerr1,pl_orbsmaxerr2,pl_orbsmaxlim,pl_rade,pl_radeerr1,pl_radeerr2,pl_radelim,pl_bmasse,pl_bmasseerr1,pl_bmasseerr2,pl_bmasselim,st_teff,st_tefferr1,st_tefferr2,st_tefflim,st_rad,st_raderr1,st_raderr2,st_radlim,st_mass,st_masserr1,st_masserr2,st_masslim,sy_dist,sy_disterr1,sy_disterr2
 TRAPPIST-1 b,1,1.51087081,0.00000060,-0.00000060,0,0.011110,0.000340,-0.000340,0,1.086,0.035,-0.035,0,0.85000,0.72000,-0.72000,0,2559.00,50.00,-50.00,0,0.12,0.00,0.00,0,0.08,0.01,-0.01,0,,,
 TRAPPIST-1 b,1,1.51082600,0.00000600,-0.00000600,0,0.011540,0.000100,-0.000100,0,1.116,0.014,-0.012,0,1.37400,0.06900,-0.06900,0,2566.00,26.00,-26.00,0,0.12,0.00,0.00,0,0.09,0.00,0.00,0,,,
