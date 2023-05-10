@@ -3,7 +3,7 @@
 #
 # User preference: *
 #
-# CONSTRAINT:  where (sy_snum = 1
+# CONSTRAINT:  where (sy_snum = 1)
 # CONSTRAINT:  and pl_orbperstr in [0, 200]
 # CONSTRAINT:  and pl_orbsmaxstr in [0, 2]
 # CONSTRAINT:  and pl_radestr in [0, 10]
