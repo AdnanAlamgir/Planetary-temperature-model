@@ -1,5 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Thu Feb 16 05:25:17 2023
 pl_name,sy_snum,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbsmax,pl_orbsmaxerr1,pl_orbsmaxerr2,pl_orbsmaxlim,pl_rade,pl_radeerr1,pl_radeerr2,pl_radelim,pl_bmasse,pl_bmasseerr1,pl_bmasseerr2,pl_bmasselim,st_teff,st_tefferr1,st_tefferr2,st_tefflim,st_rad,st_raderr1,st_raderr2,st_radlim,st_mass,st_masserr1,st_masserr2,st_masslim,sy_dist,sy_disterr1,sy_disterr2
 TRAPPIST-1 b,1,1.51087081,0.00000060,-0.00000060,0,0.011110,0.000340,-0.000340,0,1.086,0.035,-0.035,0,0.85000,0.72000,-0.72000,0,2559.00,50.00,-50.00,0,0.12,0.00,0.00,0,0.08,0.01,-0.01,0,,,
 TRAPPIST-1 b,1,1.51082600,0.00000600,-0.00000600,0,0.011540,0.000100,-0.000100,0,1.116,0.014,-0.012,0,1.37400,0.06900,-0.06900,0,2566.00,26.00,-26.00,0,0.12,0.00,0.00,0,0.09,0.00,0.00,0,,,
